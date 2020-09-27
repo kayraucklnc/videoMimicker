@@ -23,7 +23,8 @@
 
 ![faceexample](https://github.com/kayraucklnc/Deeplearner/blob/master/Examples/faces/1.png)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+The usage is not that hard,
+![videoexample](https://github.com/kayraucklnc/Deeplearner/blob/master/Examples/im_1.mp4)
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
