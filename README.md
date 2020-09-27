@@ -24,7 +24,7 @@
 ![faceexample](https://github.com/kayraucklnc/Deeplearner/blob/master/Examples/faces/1.png)
 
 The usage is not that hard,
-![videoexample](https://media.giphy.com/media/0f6gAJTq7yLzyxmmie/giphy.gif)
+![videoexample](https://media2.giphy.com/media/0f6gAJTq7yLzyxmmie/giphy.gif)
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
