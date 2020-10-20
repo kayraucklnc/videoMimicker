@@ -3,10 +3,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+The usage is not that hard,I used [this](https://github.com/AliaksandrSiarohin/first-order-model) model as base
+
+
 ![faceexample](https://github.com/kayraucklnc/Deeplearner/blob/master/Examples/faces/1.png)
 
 
-The usage is not that hard,I used [this](https://github.com/AliaksandrSiarohin/first-order-model) model as base
 ![demo](https://raw.githubusercontent.com/kayraucklnc/Deeplearner/master/Examples/demo.gif)
 
 
