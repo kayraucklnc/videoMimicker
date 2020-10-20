@@ -9,7 +9,8 @@ directory = 'faces/'
 if not os.path.exists(directory):
     os.makedirs(directory)
 
-for i in range(46, 48):
+#THESE NUMBERS SHOULD BE ADJUSTED 
+for i in range(START, END):
     cropped_array = cropper.crop(f"{i}.png")
 
     # Save the cropped image with PIL
