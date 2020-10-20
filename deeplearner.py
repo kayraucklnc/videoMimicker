@@ -14,7 +14,7 @@ warnings.filterwarnings("ignore")
 # source_image = imageio.imread('/content/gdrive/My Drive/first-order-motion-model/02.png')
 # source_image = resize(source_image, (256, 256))[..., :3]
 
-driving_video = imageio.mimread('kayra/kız.mp4', memtest=False)
+driving_video = imageio.mimread(HERE_IS_PATH_TO_MIMICING_VIDEO, memtest=False)
 # Resize image and video to 256x256
 
 driving_video = [resize(frame, (256, 256))[..., :3] for frame in driving_video]
@@ -71,7 +71,7 @@ def displaySolo(video):
 
 
 generator, kp_detector = load_checkpoints(config_path='config/vox-256.yaml',
-                                          checkpoint_path='kayra/vox-cpk.pth.tar')
+                                          checkpoint_path='vox-cpk.pth.tar')
 
 
 directory = 'outs/'
