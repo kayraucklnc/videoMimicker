@@ -21,7 +21,6 @@ The usage is not that hard,I used [this](https://github.com/AliaksandrSiarohin/f
 * Run "videocombiner.py" with correct dimensions, x*y must be equal to the length of images
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Python](https://python.org)
 
 <!-- CONTACT -->
