@@ -4,7 +4,7 @@
 ## About The Project
 
 ![faceexample](https://github.com/kayraucklnc/Deeplearner/blob/master/Examples/faces/1.png)
-![demo](https://raw.githubusercontent.com/mycodventure/Deeplearner/master/Examples/demo.gif)
+![demo](https://raw.githubusercontent.com/kayraucklnc/Deeplearner/master/Examples/demo.gif)
 
 The usage is not that hard,
 ![](https://media.giphy.com/media/0f6gAJTq7yLzyxmmie/giphy.gif)
