@@ -17,7 +17,7 @@ The usage is not that hard,I used [this](https://github.com/AliaksandrSiarohin/f
 * Install all in "requirements.txt"
 * Put all the images in folder as "/faces/{i}.png"
 * Run the "face-cropper.py" with adjusted range
-* Run "deeplearner.py"
+* Run "deeplearner.py" with correct path to mimicing video
 * Run "videocombiner.py" with correct dimensions, x*y must be equal to the length of images
 
 ### Built With
