@@ -10,5 +10,9 @@ clips = []
 for clp in range(STARTVIDEO, ENDVIDEO):
     clips.append(VideoFileClip(f"outs\{clp}out.mp4"))  # add 10px contour
 
-final_clip = clips_array(arrange(clips, 5, 3))
+#These must be adjusted    
+x = 5
+y = 3
+
+final_clip = clips_array(arrange(clips, x, y))
 final_clip.write_videofile("saveasname.mp4")
