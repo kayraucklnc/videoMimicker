@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This porject is for bringing static images of human faces to life with help of computer science
+This project is for bringing static images of human faces to life with help of computer science
 
 The usage is not that hard,I used [this](https://github.com/AliaksandrSiarohin/first-order-model) model as base
 
