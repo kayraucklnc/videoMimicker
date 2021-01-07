@@ -28,4 +28,4 @@ The usage is not that hard,I used [this](https://github.com/AliaksandrSiarohin/f
 
 Your Name - [@mycodventure](https://twitter.com/mycodventure)
 
-Project Link: [https://https://github.com/kayraucklnc/Deeplearner](https://https://github.com/kayraucklnc/Deeplearner)
+Project Link: [https://github.com/kayraucklnc/videoMimicker](https://https://github.com/kayraucklnc/Deeplearner)
