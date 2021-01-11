@@ -28,6 +28,6 @@ The usage is not that hard,I used [this](https://github.com/AliaksandrSiarohin/f
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@mycodventure](https://twitter.com/mycodventure)
+Twitter - [@mycodventure](https://twitter.com/mycodventure)
 
 Project Link: [https://github.com/kayraucklnc/videoMimicker](https://github.com/kayraucklnc/videoMimicker)
